@@ -1,0 +1,20 @@
+INSERT INTO `user` 
+(`id`, `first_name`,  `last_name`,    `email`,                 `phone`,         `comments`, `status`) VALUES
+(NULL, 'Amanda',      'Nunes',        'anunes@ufc.com',        '012345 678910', '',          'active'),
+(NULL, 'Alexander',   'Volkanovski',  'avolkanovski@ufc.com',  '012345 678910', '',          'active'),
+(NULL, 'Chris',       'Evans',        'ChrisEvans@ufc.com',    '012345 678910', '',          'active'),
+(NULL, 'Alexandra',   'Daddario',     'Daddario@ufc.com',      '012345 678910', '',          'active'),
+(NULL, 'Israel',      'Adesanya',     'iadesanya@ufc.com',     '012345 678910', '',          'active'),
+(NULL, 'Henry',       'Cejudo',       'hcejudo@ufc.com',       '012345 678910', '',          'active'),
+(NULL, 'Valentina',   'Rossi',        'vrossi@ufc.com',        '012345 678910', '',          'active'),
+(NULL, 'Tom',         'Holland',      'Holland@ufc.com',       '012345 678910', '',          'active'),
+(NULL, 'Rose',        'Jack ',        'Jackrose@ufc.com',      '012345 678910', '',          'active'),
+(NULL, 'Tony',        'Ferguson ',    'tferguson@ufc.com',     '012345 678910', '',          'active'),
+(NULL, 'Jorge',       'Masvidal ',    'jmasvidal@ufc.com',     '012345 678910', '',          'active'),
+(NULL, 'Nate',        'Diaz ',        'ndiaz@ufc.com',         '012345 678910', '',          'active'),
+(NULL, 'Conor',       'McGregor ',    'cmcGregor@ufc.com',     '012345 678910', '',          'active'),
+(NULL, 'Black',        'Widow',       'BWidow@ufc.com',        '012345 678910', '',          'active'),
+(NULL, 'Tecia',       'Torres ',      'ttorres@ufc.com',       '012345 678910', '',          'active'),
+(NULL, 'Ronda',       'Rousey ',      'rrousey@ufc.com',       '012345 678910', '',          'active'),
+(NULL, 'Holly',       'Holm ',        'hholm@ufc.com',         '012345 678910', '',          'active'),
+(NULL, 'Joanna',      'Jedrzejczyk ', 'jjedrzejczyk@ufc.com',  '012345 678910', '',          'active')
